@@ -1,6 +1,6 @@
 
 
-![attargah-admin-bar.jpg](art\attargah-admin-bar.jpg)
+![attargah-admin-bar.jpg](art/attargah-admin-bar.jpg)
 
 # Admin Bar
 
