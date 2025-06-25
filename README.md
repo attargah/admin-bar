@@ -1,3 +1,7 @@
+
+
+![attargah-admin-bar.jpg](art\attargah-admin-bar.jpg)
+
 # Admin Bar
 
 **Admin Bar** is a Laravel package built for Filament that displays a fixed admin bar on the frontend of your site when a user is logged in. This bar provides quick access to the Filament panel and can be easily integrated into various projects with its customizable structure.
@@ -49,8 +53,8 @@ use Attargah\AdminBar\AdminBarPlugin;
 
 ->plugins([AdminBarPlugin::make()])
 ```
-
 ---
+
 
 ## 🎨 Customization
 
@@ -82,7 +86,7 @@ Add the following to the Blade file where you want the admin bar to appear:
 ```blade
 <x-admin-bar-admin-bar />
 ```
-
+This component needs `Tailwind CSS ` to look correct on your page.<br>
 The bar will only appear for authenticated users.  
 To customize further, you can publish and modify the `resources/views/components/admin-bar.blade.php` file.
 
