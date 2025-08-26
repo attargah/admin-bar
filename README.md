@@ -21,7 +21,7 @@
 
 * PHP >= 8.1
 * Laravel >= 10
-* Filament >= 3.0
+* Filament >= 3.0 | 4.0
 * Tailwind CSS (for component styling)
 
 ---
